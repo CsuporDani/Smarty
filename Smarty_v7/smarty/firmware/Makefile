@@ -1,7 +1,6 @@
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
-#Csucsu csucsucsucs tick tack
 
 # Compiler options here.
 ifeq ($(USE_OPT),)
