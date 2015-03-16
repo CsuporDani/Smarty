@@ -1,7 +1,6 @@
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
-#alma
 
 # Compiler options here.
 ifeq ($(USE_OPT),)
