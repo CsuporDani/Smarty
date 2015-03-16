@@ -1,6 +1,7 @@
 /*
     MegaControl - Copyright (C) 2012
-    GAMF ECOMarathon Team              
+    GAMF ECOMarathon Team
+    speed.h
 */
 
 #ifndef SPEED_H_INCLUDED
