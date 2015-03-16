@@ -1,7 +1,7 @@
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
-# Szevassz csupi!
+# Szia T.D. mi újság?
 
 # Compiler options here.
 ifeq ($(USE_OPT),)
