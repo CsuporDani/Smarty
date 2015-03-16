@@ -1,7 +1,7 @@
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
-#Teszs
+#Csucsu
 
 # Compiler options here.
 ifeq ($(USE_OPT),)
