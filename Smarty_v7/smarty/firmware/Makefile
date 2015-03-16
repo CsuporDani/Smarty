@@ -1,6 +1,7 @@
 ##############################################################################
 # Build global options
 # NOTE: Can be overridden externally.
+#
 
 # Compiler options here.
 ifeq ($(USE_OPT),)
