@@ -1,7 +1,8 @@
 /*
     Smarty - Copyright (C) 2014
     GAMF MegaLux Team 
-    próba tesz miegymás             
+    próba tesz miegymás  
+    szia T.D.           
 */
 
 -SD Card
